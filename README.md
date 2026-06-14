@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 Hey, I'm DJ Doman
+# 👾 Hey, I'm Daniel J. Doman
 
 **Game Developer · Unity · C#**
 
@@ -22,12 +22,12 @@
 
 ## 📬 Get In Touch
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_djdoman)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@djdoman)
-[![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://djdoman.itch.io)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/djdoman)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@danieljdoman)
+[![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://danieljdoman.itch.io)
 
 ---
 
 <div align="center">
-  <sub>⚡ Profile views: <img src="https://komarev.com/ghpvc/?username=djdoman&style=flat-square&color=blueviolet" alt="profile views"/></sub>
+  <sub>⚡ Profile views: <img src="https://komarev.com/ghpvc/?username=danieljdoman&style=flat-square&color=blueviolet" alt="profile views"/></sub>
 </div>
