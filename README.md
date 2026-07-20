@@ -2,7 +2,7 @@
 
 # 👾 Hey, I'm Daniel J. Doman
 
-**Game Developer · Unity · C#**
+**🎮 Indie Game Dev | Unity & C#**
 
 *Creating experiences through code.*
 
@@ -22,9 +22,9 @@
 
 ## 📬 Get In Touch
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/djdoman)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@danieljdoman)
 [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://danieljdoman.itch.io)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@danieljdoman)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.danieljdoman)
 
 ---
 
